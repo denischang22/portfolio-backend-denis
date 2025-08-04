@@ -1,0 +1,12 @@
+<div style="padding: 2rem">
+  <h1>🔍 Buscar empleos remotos</h1>
+  <input [(ngModel)]="keyword" placeholder="Palabra clave" />
+  <button (click)="searchJobs()">Buscar</button>
+
+  <div *ngIf="jobs.length > 0">
+    <h3>Resultados:</h3>
+    <ul>
+      <li *ngFor="let job of jobs">{{ job }}</li>
+    </ul>
+  </div>
+</div>
