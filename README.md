@@ -1,4 +1,4 @@
-# 💼 Portafolio Backend – Denis Andrea Armenta Chang
+# 💼 Portafolio Backend – Denis Armenta
 
 ¡Hola! 👋 Soy **Desarrolladora Backend** especializada en **Java (Spring Boot)** y **Python (FastAPI)**, con experiencia en diseño de APIs, microservicios, bases de datos, contenedores y más.  
 Este repositorio es una colección organizada de proyectos reales que demuestran mis habilidades y buenas prácticas como ingeniera de software.
